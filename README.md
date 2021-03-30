@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akash-tatti
 - 👀 I’m interested in learning new things , I am passionate about my work.I have a quite good experience in Web Designing.
 - 🌱 I’m currently Doing my BE. in Information Science and Engineering.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... akashtatti2904@gmail.com
 
 <!---
